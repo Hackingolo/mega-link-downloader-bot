@@ -1,5 +1,5 @@
 # Solely coded by xmysteriousx
-FROM ubuntu:rolling
+FROM ubuntu:22.10
 ENV DEBIAN_FRONTEND=noninteractive
 ENV TZ=Asia/Kolkata
 # setting the working directory in the container
