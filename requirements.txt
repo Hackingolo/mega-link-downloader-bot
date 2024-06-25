@@ -14,3 +14,4 @@ psycopg2-binary
 feedparser
 filesplit
 git+https://github.com/XMYSTERlOUSX/mega.py
+anyio>=4.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
